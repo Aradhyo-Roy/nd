@@ -1,0 +1,28 @@
+#e{
+    margin-left: 50px;
+    margin-top: 80px;
+    height: 200px;
+    width: 300px;
+}
+#v{
+    margin-bottom: 50px;
+    margin-right: 30px;
+    height: 200px;
+    width: 300px;
+}
+#t{
+    margin-left: 70px;
+    margin-top: 40px;
+    margin-right: 50px;
+    height: 200px;
+    width: 300px;
+}
+#d{
+    margin-bottom: 50px;
+    margin-right: 30px;
+    height: 200px;
+    width: 300px;
+}
+html{
+    scroll-behavior: smooth;
+}

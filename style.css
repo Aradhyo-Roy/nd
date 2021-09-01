@@ -1,0 +1,36 @@
+ 
+ body{
+     background: linear-gradient(#ffff00 0%, #808088 25%, #f95 50%, #f00 75%, #000 100%);
+ }
+ #stars{
+     margin-left: 20px;
+     color: #000;
+ }
+ #stars span{
+     color: gold;
+ }
+#address{
+     background-color: blue;
+     color: yellow;
+}
+#name{
+    background-color: greenyellow;
+    color: blueviolet;
+}
+#age{
+    background-color: red;
+    color: lightgreen;
+}
+#logo :hover{
+    transform-style: preserve-3d;
+}
+#sub{
+    background-color: limegreen;
+    width: 100px;
+}
+#pug{
+    background-color: lightskyblue;
+    width: 80px;
+    position: absolute;
+    margin-left: 1100px;
+}
